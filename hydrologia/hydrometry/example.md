@@ -31,12 +31,10 @@ custom_js:
     <th style="width: 13%;">Data Source</th><th style="text-align: left;">Graphs</th>
   </tr>
   <tr>
-    <td><a href="https://environment.data.gov.uk/hydrology/doc/reference">Hydrology Data 
-        <span class="tooltip">API<span class="tooltiptext">Application Programming Interface</span></span></a>
-    </td>
+    <td><a href="https://environment.data.gov.uk/hydrology/doc/reference">Hydrology Data Application Programming Interface</a></td>
     <td><ul style="margin-top: 0">
       <li><a href='https://briefings.github.io/experiment/graphs/pages/measures.html'>Measures</a></li>
-      <li><a href='https://briefings.github.io/experiment/graphs/pages/additionally.html'>Additional Measures</a></li> 
+      <li><a href='https://briefings.github.io/experiment/graphs/pages/additionally.html'>Additional Measures</a></li></ul>
     </td>
   </tr>
 </table>
