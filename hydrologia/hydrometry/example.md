@@ -35,8 +35,8 @@ custom_js:
         <span class="tooltip">API<span class="tooltiptext">Application Programming Interface</span></span></a>
     </td>
     <td><ul style="margin-top: 0">
-      <li><a href='https://briefings.github.io/experiment/graphs/pages/measures.html'>Unscaled observations</a></li>
-      <li><a href='https://briefings.github.io/experiment/graphs/pages/additionally.html'>Observations scaled per 100K people</a></li> 
+      <li><a href='https://briefings.github.io/experiment/graphs/pages/measures.html'>Measures</a></li>
+      <li><a href='https://briefings.github.io/experiment/graphs/pages/additionally.html'>Additional Measures</a></li> 
     </td>
   </tr>
 </table>
