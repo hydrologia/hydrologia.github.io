@@ -33,8 +33,8 @@ custom_js:
   <tr>
     <td><a href="https://environment.data.gov.uk/hydrology/doc/reference">Hydrology Data Application Programming Interface</a></td>
     <td><ul style="margin-top: 0">
-      <li><a href='https://briefings.github.io/experiment/graphs/pages/measures.html'>Measures</a></li>
-      <li><a href='https://briefings.github.io/experiment/graphs/pages/additionally.html'>Additional Measures</a></li></ul>
+      <li><a href='https://hydrologia.github.io/experiment/graphs/pages/measures.html'>Measures</a></li>
+      <li><a href='https://hydrologia.github.io/experiment/graphs/pages/additionally.html'>Additional Measures</a></li></ul>
     </td>
   </tr>
 </table>
