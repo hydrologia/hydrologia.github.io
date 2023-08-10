@@ -28,7 +28,7 @@ custom_js:
 
 <table>
   <tr>
-    <th style="width: 13%;">Data Source</th><th style="text-align: left;">Graphs</th>
+    <th style="width: 19%;">Data Source</th><th style="text-align: left;">Graphs</th>
   </tr>
   <tr>
     <td><a href="https://environment.data.gov.uk/hydrology/doc/reference">Hydrology Data Application Programming Interface</a></td>
