@@ -1,0 +1,52 @@
+---
+layout: default
+title: Example
+parent: Hydrometry
+nav_order: 1
+custom_css:
+- tooltips
+- generic
+custom_js:
+- latex
+---
+
+# Example
+{: .no_toc }
+
+<br>
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+
+<p>Thus far, playing with:</p>
+
+<table>
+  <tr>
+    <th style="width: 13%;">Data Source</th><th style="text-align: left;">Graphs</th>
+  </tr>
+  <tr>
+    <td><a href="https://environment.data.gov.uk/hydrology/doc/reference">Hydrology Data 
+        <span class="tooltip">API<span class="tooltiptext">Application Programming Interface</span></span></a>
+    </td>
+    <td><ul style="margin-top: 0">
+      <li><a href='https://briefings.github.io/experiment/graphs/pages/measures.html'>Unscaled observations</a></li>
+      <li><a href='https://briefings.github.io/experiment/graphs/pages/additionally.html'>Observations scaled per 100K people</a></li> 
+    </td>
+  </tr>
+</table>
+
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
